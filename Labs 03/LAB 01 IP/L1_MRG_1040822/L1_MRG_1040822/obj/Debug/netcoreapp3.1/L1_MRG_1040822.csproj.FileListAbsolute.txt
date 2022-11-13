@@ -1,0 +1,14 @@
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/bin/Debug/netcoreapp3.1/L1_MRG_1040822
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/bin/Debug/netcoreapp3.1/L1_MRG_1040822.deps.json
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/bin/Debug/netcoreapp3.1/L1_MRG_1040822.runtimeconfig.json
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/bin/Debug/netcoreapp3.1/L1_MRG_1040822.runtimeconfig.dev.json
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/bin/Debug/netcoreapp3.1/L1_MRG_1040822.dll
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/bin/Debug/netcoreapp3.1/L1_MRG_1040822.pdb
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/obj/Debug/netcoreapp3.1/L1_MRG_1040822.csproj.AssemblyReference.cache
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/obj/Debug/netcoreapp3.1/L1_MRG_1040822.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/obj/Debug/netcoreapp3.1/L1_MRG_1040822.AssemblyInfoInputs.cache
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/obj/Debug/netcoreapp3.1/L1_MRG_1040822.AssemblyInfo.cs
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/obj/Debug/netcoreapp3.1/L1_MRG_1040822.csproj.CoreCompileInputs.cache
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/obj/Debug/netcoreapp3.1/L1_MRG_1040822.dll
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/obj/Debug/netcoreapp3.1/L1_MRG_1040822.pdb
+/Users/Mike/Desktop/LAB 01 IP/L1_MRG_1040822/L1_MRG_1040822/obj/Debug/netcoreapp3.1/L1_MRG_1040822.genruntimeconfig.cache
