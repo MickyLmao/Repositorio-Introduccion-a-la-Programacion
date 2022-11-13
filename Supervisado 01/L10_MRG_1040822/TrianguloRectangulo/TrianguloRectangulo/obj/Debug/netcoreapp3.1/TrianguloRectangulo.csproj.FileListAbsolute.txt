@@ -1,0 +1,14 @@
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/obj/Debug/netcoreapp3.1/TrianguloRectangulo.csproj.AssemblyReference.cache
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/obj/Debug/netcoreapp3.1/TrianguloRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/obj/Debug/netcoreapp3.1/TrianguloRectangulo.AssemblyInfoInputs.cache
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/obj/Debug/netcoreapp3.1/TrianguloRectangulo.AssemblyInfo.cs
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/obj/Debug/netcoreapp3.1/TrianguloRectangulo.csproj.CoreCompileInputs.cache
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/bin/Debug/netcoreapp3.1/TrianguloRectangulo
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/bin/Debug/netcoreapp3.1/TrianguloRectangulo.deps.json
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/bin/Debug/netcoreapp3.1/TrianguloRectangulo.runtimeconfig.json
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/bin/Debug/netcoreapp3.1/TrianguloRectangulo.runtimeconfig.dev.json
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/bin/Debug/netcoreapp3.1/TrianguloRectangulo.dll
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/bin/Debug/netcoreapp3.1/TrianguloRectangulo.pdb
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/obj/Debug/netcoreapp3.1/TrianguloRectangulo.dll
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/obj/Debug/netcoreapp3.1/TrianguloRectangulo.pdb
+/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/obj/Debug/netcoreapp3.1/TrianguloRectangulo.genruntimeconfig.cache

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/TrianguloRectangulo.csproj": {}
+  },
+  "projects": {
+    "/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/TrianguloRectangulo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/TrianguloRectangulo.csproj",
+        "projectName": "TrianguloRectangulo",
+        "projectPath": "/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/TrianguloRectangulo.csproj",
+        "packagesPath": "/Users/Mike/.nuget/packages/",
+        "outputPath": "/Users/Mike/Desktop/PROGRA/SUP/L10_MRG_1040822/TrianguloRectangulo/TrianguloRectangulo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Mike/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
